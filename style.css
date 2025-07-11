@@ -2,7 +2,6 @@
     margin:0;
     padding:0;
     font-family: "Raleway", sans-serif;
-
 }
 body{
     background-color: #D6DDED;
@@ -12,40 +11,32 @@ body{
     max-width: 100%;
     height: 350px;
 }
-
 .nav_section{
     margin-left:80px;
     margin-right: 80px;
     padding-top:20px;
     display: flex;
     justify-content:space-between;
-    
-
 }
 .logo{
     color:#4E47FF;
     font-weight:bold;
     padding-top:15px;
     padding-bottom: 15px; 
-    
 }
 .logo p{
     font-weight:bolder;
 }
 #btn{
     color:#FFFFFF;
-    /* width:70px;
-    height:30px;*/background-color:#4E47FF; 
+    background-color:#4E47FF; 
     border-radius:3px;
     border-style:none;
     font-weight: bolder;
-  
-    
 }
 #btn:hover {
     background:rgb(245, 225, 9);
     color:black;
-
 }
 
 
@@ -56,7 +47,6 @@ body{
 }
 .signup_btn button p{
     font-size: smaller;
-   
 }
 /*=========bannner section====== */
 .banner_section{
@@ -84,7 +74,6 @@ body{
 }
 .action_section{
     display: flex;
-    
     border-top-right-radius: 5px ;
     border-bottom-right-radius: 5px ;
     justify-content:space-between;
@@ -114,25 +103,16 @@ body{
     width:150px;
     height:40px;
 }
-
-
 /*==========right site=======*/
 .right_site{
     padding-left: 20px;
-
 }
-
 .right_site img{
     border-radius: 20px;
     width: 300px;
     max-width: 100%;
     height: 300px;
-    
-
-    
-    
 }
-
 /*=============|User Container=========*/
 .user_container{
     background-color:#4E47FF20;
@@ -149,7 +129,6 @@ body{
 }
 .title_centerd h2{
     font-size:40px;
-    
 }
 .all_data{
     display:flex;
@@ -161,7 +140,6 @@ body{
 .all_data h2{
     color:#4E47FF;
     font-size: 55px;
-
 }
 .all_data p{
     color:#322432;
@@ -170,21 +148,17 @@ body{
     padding-top:8px;
 }
 /*=====User Review container=======*/
-
 .review_container{
-    
     max-width: 100%;
     height: 250px;
     margin-left:60px;
     margin-right: 60px;
     margin-top:50px;
 }
-
 .review_title h2 {
     color:#252432;
     text-align: center;
     font-size: 50px;
-
 }
 
 /*=======riview box 1 to 3=======*/
@@ -219,8 +193,6 @@ body{
     justify-content: space-evenly;
     flex-wrap: wrap;
     display: flex;
-   
-
 }
 .avater img{
     width: 30px;
@@ -250,7 +222,6 @@ body{
     margin:80px;
     padding:auto 80px auto 80px;
     text-align: center;
-
 }
 .focus_section h2{
     padding-top:20px;
@@ -263,12 +234,10 @@ body{
 .focus_section img{
     border-radius: 20px;width:700px;
     height: 160px;
-    
 }
 .stard_btn{
     padding:15px 15px;
 }
-
 .stard_btn button{
     width:120px;
     height:30px;
@@ -281,9 +250,6 @@ body{
     margin:80px;
     padding:auto 80px auto 80px;
     background-color: #D6DDED;
-    
-
-
 }
 
 .touch_section{
@@ -298,7 +264,6 @@ body{
    padding-top:100px;
 }
 /*=====Right site2========*/
-
 .right_side2{
     padding-top:30px;
     margin-right:0px;
@@ -307,7 +272,6 @@ body{
 #label{
     color:#000000;
     padding-top:5px;
-
 }
 input{
     width:90.9%;
@@ -317,13 +281,10 @@ input{
     border-radius: 10px;
     border-style: none;
     background-color:#FFFFFF;
-
-
 }
 #message{
     height: 80px;
     /*===placeholder arektu upore hobe==*/
-   
 }
 .touch_btn button{
     width:96%;
@@ -345,7 +306,6 @@ input{
     font-size: 80px;
     font-weight:900;
     padding-top:40px;
-
 }
 .footer_section p{
     color:#8987A1;
@@ -353,7 +313,6 @@ input{
     padding-left:250px;
     padding-right: 260px;
     padding-top:15px;
-
 }
 .all_link{
     display: flex;
@@ -361,6 +320,4 @@ input{
     padding-left: 330px;
     padding-right: 200px;
     padding-top:20px;
-    
-    
 }
