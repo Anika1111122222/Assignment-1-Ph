@@ -1,20 +1,21 @@
 # Assignment-1-Ph
 Shohoj Shorol Simple and enjoyable html css project
-
-# Programming Hero First Assignment
-
-A simple and responsive landing page built with HTML and CSS.  
-This is my first project from the Programming Hero Web Development course.
-
 ---
-
 ## Live Link
 
 [View Live Site](#)  
-
 ---
 ## Project Screenshort
 ![Project Screenshort](Projects-screenshort.png)  
+---
+
+## 🔗 Connect With Me
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anika.sultana.421633)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anika-sultana123)
+
+
 
 ## Features
 
