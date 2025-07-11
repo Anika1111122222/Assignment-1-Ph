@@ -14,7 +14,7 @@ This is my first project from the Programming Hero Web Development course.
 
 ---
 ## Figma file
-[Figma Image](https://github.com/Anika1111122222/Assignment-1-Ph/blob/32312012908df51e210ba159d500e3e83f8e911a/web-flow-A01.fig)
+![Figma Image](https://github.com/Anika1111122222/Assignment-1-Ph/blob/32312012908df51e210ba159d500e3e83f8e911a/web-flow-A01.fig)
 
 
 ## Features
