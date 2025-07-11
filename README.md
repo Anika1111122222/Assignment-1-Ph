@@ -14,7 +14,7 @@ This is my first project from the Programming Hero Web Development course.
 
 ---
 ## Project Screenshort
-![Project Screenshort](#)  
+![Project Screenshort](Projects-screenshort.png)  
 
 ## Features
 
